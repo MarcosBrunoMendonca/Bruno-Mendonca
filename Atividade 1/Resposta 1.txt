@@ -1,4 +1,0 @@
-Adenina = 209
-Timina = 189
-Guanina = 201
-Citosina = 227
