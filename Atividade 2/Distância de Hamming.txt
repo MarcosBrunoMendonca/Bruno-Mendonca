@@ -1,0 +1,3 @@
+Distância de Hamming: 
+- Da sequência B em relação a A: é 686.
+- Da sequência C em relação a A: é 631.
